@@ -1,6 +1,6 @@
 # 😊 Mr. Panda's Psychologically Safe Portfolio 🐼
 
-**[Live site](https://www.mr-pandas-psychologically-safe-portfolio.com/)** | **[Article](https://tympanus.net/codrops/2025/12/30/the-increasing-importance-of-psychological-safety-and-self-awareness-for-creative-work/?_thumbnail_id=107253)**
+**[Live site](https://www.mr-pandas-psychologically-safe-portfolio.com/)** | **[Article](https://tympanus.net/codrops/2025/12/30/the-increasing-importance-of-psychological-safety-and-self-awareness-for-creative-work/?_thumbnail_id=107253)** | **[Tutorial](https://www.youtube.com/watch?v=zyWD2E8AHCg&feature=youtu.be)**
 
 This repo contains code of Mr. Panda's Portfolio for a Codrops article!! It's a concept portfolio website created with [Blender](https://www.blender.org/), [Three.js](https://threejs.org/), and [Krita](https://krita.org/en/). Let's fight back against toxicity in the creative industry.
 
